@@ -5,15 +5,15 @@ Mata Kuliah : Bahasa Pemrograman <br>
 Praktek		  : Ujian Akhir Semester 1 <br>
 
 #### Daftar Isi
-*[Pembuatan Folder dan File sesuai ketentuan](#Pembuatan-Folder-dan-File-sesuai-ketentuan)
-*[Program utama pada file main.py](#Program-utama-pada-file-main.py)
-*[Cetak Data](#Cetak-Data)
-*[Tambah Data](#Tambah-Data)
-*[Ubah Data](#Ubah-Data)
-*[Hapus Data](#_Toc124159788)
-*[Cari Data](#_Toc124159789)
-*[Input selain dari pilihan pada menu](#_Toc124159790)
-*[Keluar Program](#_Toc124159791)
+* [Pembuatan Folder dan File sesuai ketentuan](#Pembuatan-Folder-dan-File-sesuai-ketentuan)
+* [Program utama pada file main.py](#Program-utama-pada-file-main.py)
+* [Cetak Data](#Cetak-Data)
+* [Tambah Data](#Tambah-Data)
+* [Ubah Data](#Ubah-Data)
+* [Hapus Data](#_Toc124159788)
+* [Cari Data](#_Toc124159789)
+* [Input selain dari pilihan pada menu](#_Toc124159790)
+* [Keluar Program](#_Toc124159791)
 
 
 
