@@ -10,33 +10,24 @@ Praktek		  : Ujian Akhir Semester 1 <br>
 * [Cetak Data](#Cetak-Data)
 * [Tambah Data](#Tambah-Data)
 * [Ubah Data](#Ubah-Data)
-* [Hapus Data](#_Toc124159788)
-* [Cari Data](#_Toc124159789)
-* [Input selain dari pilihan pada menu](#_Toc124159790)
-* [Keluar Program](#_Toc124159791)
-
-
-
-
-
-
-![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.002.png)
+* [Hapus Data](#Hapus-Data)
+* [Cari Data](#Cari-Data)
+* [Input selain dari pilihan pada menu](#Input-selain-dari-pilihan-pada-menu)
+* [Keluar Program](#Keluar-Program)
 
 # Pembuatan Folder dan File sesuai ketentuan
 1. Struktur Folder 
 ![Aspose Words 3da5a5f8-9048-439b-a62f-2e08a7f81535 002](https://user-images.githubusercontent.com/47426095/211247792-28b1b63b-2027-43cf-8a7b-87f5686625ff.png)
 
 
-1. Modul daftar\_nilai.py
+2. Modul daftar_nilai.py
+![Aspose Words 3da5a5f8-9048-439b-a62f-2e08a7f81535 004](https://user-images.githubusercontent.com/47426095/211248856-e4480977-635f-4570-a93c-d8286a8f8c3f.png)
 
-![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.004.png)
 
+2. modul view_nilai.py
+![Aspose Words 3da5a5f8-9048-439b-a62f-2e08a7f81535 005](https://user-images.githubusercontent.com/47426095/211248886-0ea641dc-d09b-419b-b998-7d16a878dbf4.png)
 
-1. modul view nilai.py
-
-![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.005.png)
-
-2. modul input\_nilai.py
+3. modul input_nilai.py
 
 ![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.006.png)
 # Program utama pada file main.py
