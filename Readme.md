@@ -1,9 +1,9 @@
 
-Nama 		: Orta Yamaesa
-NIM 			: 312210147
-Kelas 		: TI.22.B1
-Mata Kuliah 	: Bahasa Pemrograman
-Praktek		: Ujian Akhir Semester 1
+Nama 		    : Orta Yamaesa <br>
+NIM 			  : 312210147 <br>
+Kelas 		  : TI.22.B1 <br>
+Mata Kuliah : Bahasa Pemrograman <br>
+Praktek		  : Ujian Akhir Semester 1 <br>
 
 #### Daftar Isi
 [Pembuatan Folder dan File sesuai ketentuan :	3](#Pembuatan-Folder-dan-File-sesuai-ketentuan)
@@ -31,10 +31,10 @@ Praktek		: Ujian Akhir Semester 1
 
 ![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.002.png)
 
-# Pembuatan Folder dan File sesuai ketentuan :
+# Pembuatan Folder dan File sesuai ketentuan
 1. Struktur Folder 
+![Aspose Words 3da5a5f8-9048-439b-a62f-2e08a7f81535 002](https://user-images.githubusercontent.com/47426095/211247792-28b1b63b-2027-43cf-8a7b-87f5686625ff.png)
 
-![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.003.png)
 
 1. Moduldaftar\_nilai.py
 
