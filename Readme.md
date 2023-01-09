@@ -1,22 +1,12 @@
-﻿
-
-![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.001.png)
-
-
 
 Nama 		: Orta Yamaesa
-
 NIM 			: 312210147
-
 Kelas 		: TI.22.B1
-
 Mata Kuliah 	: Bahasa Pemrograman
-
 Praktek		: Ujian Akhir Semester 1
 
-
-##### Daftar Isi
-[Pembuatan Folder dan File sesuai ketentuan :	3](#_Toc124159783)
+#### Daftar Isi
+[Pembuatan Folder dan File sesuai ketentuan :	3](#Pembuatan-Folder-dan-File-sesuai-ketentuan)
 
 [Program utama pada file main.py	4](#_Toc124159784)
 
