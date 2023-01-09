@@ -3,6 +3,7 @@ NIM 			  : 312210147 <br>
 Kelas 		  : TI.22.B1 <br>
 Mata Kuliah : Bahasa Pemrograman <br>
 Praktek		  : Ujian Akhir Semester 1 <br>
+Link Pdf    : [disini](https://drive.google.com/file/d/1jaqCADlCAvHoBwVxYEZSpxgQHODSCFTf/view?usp=sharing)
 
 #### Daftar Isi
 * [Pembuatan Folder dan File sesuai ketentuan](#Pembuatan-Folder-dan-File-sesuai-ketentuan)
