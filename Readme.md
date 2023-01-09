@@ -150,8 +150,12 @@ bagaimana jika yang diinputkan user tidak sesuai dengan pilihan??
 # Keluar Program
 jika hasil inputan adalah ‘k’, maka kode akan keluar dari program
 
-![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.022.png)
+``` python
+  case "k":
+    print("anda sudah Keluar dari program")
+    break
+```
 
-- cetak pesan bahwa sudah keluar dari program
-- kemudian gunakan *break* untuk menghentikan pengulangan yang berarti program sudah selesai
+* cetak pesan bahwa sudah keluar dari program
+* kemudian gunakan *break* untuk menghentikan pengulangan yang berarti program sudah selesai
 
