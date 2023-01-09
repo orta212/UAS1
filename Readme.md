@@ -35,7 +35,7 @@ Praktek		  : Ujian Akhir Semester 1 <br>
 
 1. lakukan import package local yang sudah dibuat dan juga buat variabel berupa dictionary dengan isi berupa list untuk menampung data nilai
 
-![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.008.png)
+![image](https://user-images.githubusercontent.com/47426095/211249241-0927ae09-8435-40be-a5a4-ed72c686b6a9.png)
 
 nantinya, data nilai seorang mahasiswa akan memiliki index yang sama dengan nama nya
 
