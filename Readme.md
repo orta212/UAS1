@@ -1,4 +1,3 @@
-
 Nama 		    : Orta Yamaesa <br>
 NIM 			  : 312210147 <br>
 Kelas 		  : TI.22.B1 <br>
@@ -6,23 +5,15 @@ Mata Kuliah : Bahasa Pemrograman <br>
 Praktek		  : Ujian Akhir Semester 1 <br>
 
 #### Daftar Isi
-[Pembuatan Folder dan File sesuai ketentuan :	3](#Pembuatan-Folder-dan-File-sesuai-ketentuan)
-
-[Program utama pada file main.py	4](#_Toc124159784)
-
-[Cetak Data	5](#_Toc124159785)
-
-[Tambah Data	6](#_Toc124159786)
-
-[Ubah Data	7](#_Toc124159787)
-
-[Hapus Data	8](#_Toc124159788)
-
-[Cari Data	9](#_Toc124159789)
-
-[Input selain dari pilihan pada menu	10](#_Toc124159790)
-
-[Keluar Program	10](#_Toc124159791)
+*[Pembuatan Folder dan File sesuai ketentuan](#Pembuatan-Folder-dan-File-sesuai-ketentuan)
+*[Program utama pada file main.py](#Program-utama-pada-file-main.py)
+*[Cetak Data](#Cetak-Data)
+*[Tambah Data](#Tambah-Data)
+*[Ubah Data](#Ubah-Data)
+*[Hapus Data](#_Toc124159788)
+*[Cari Data](#_Toc124159789)
+*[Input selain dari pilihan pada menu](#_Toc124159790)
+*[Keluar Program](#_Toc124159791)
 
 
 
