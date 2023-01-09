@@ -27,18 +27,17 @@ Praktek		  : Ujian Akhir Semester 1 <br>
 4. modul input_nilai.py
 ![image](https://user-images.githubusercontent.com/47426095/211249871-83a5488d-b1da-403b-8d9a-f1a27b0baded.png)
 
-# Program utama pada file main.py
-##### ![](Aspose.Words.3da5a5f8-9048-439b-a62f-2e08a7f81535.007.png)
+# Program utama pada file main.py <br>
+![image](https://user-images.githubusercontent.com/47426095/211250191-a0f9a684-66d5-4822-bf79-c51fe9b5d2f1.png)
 
 1. lakukan import package local yang sudah dibuat dan juga buat variabel berupa dictionary dengan isi berupa list untuk menampung data nilai
 
 ![image](https://user-images.githubusercontent.com/47426095/211249241-0927ae09-8435-40be-a5a4-ed72c686b6a9.png)
 
-nantinya, data nilai seorang mahasiswa akan memiliki index yang sama dengan nama nya <br>
+nantinya, data nilai seorang mahasiswa akan memiliki index yang sama dengan nama nya <br><br>
 ![image](https://user-images.githubusercontent.com/47426095/211249571-e42765bd-5b7f-4a20-a645-cf8db4ef7f2b.png)
 
-
-
+<br> <br>
 1. buat fungsi perulangan dengan while sehingga program akan terus berjalan berulang ulang,
 1. kemudian cetak daftar menu agar dapat dipilih oleh user
 1. minta user untuk input pilihan menu
